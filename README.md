@@ -29,9 +29,6 @@ This guide aims to help users of all backgrounds understand and use AI technolog
   - [Perplexity](#perplexity)
 - [Best Practices for Safe AI Usage](#best-practices-for-safe-ai-usage)
 - [FAQ](#faq)
-- [Additional Resources](#additional-resources)
-- [Contributing and Feedback](#contributing-and-feedback)
-
 ---
 
 ## Introduction
